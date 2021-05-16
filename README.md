@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KJLuton
 - 👀 I’m interested in sports events
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently building my first website
 
 <!---
 KJLuton/KJLuton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
